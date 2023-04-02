@@ -2,7 +2,11 @@
 
 #### By _**Ciaran Moran G00426050@atu.ie**_
 
-#### _This Python script will input 2 cent amounts from the user, add them together, and then output a Euro amount of the sum_
+#### _This Python script will Program that asks the user to input any positive integer 
+# and outputs the successive values of the following calculation.
+# At each step calculate the next value by taking the current value and, 
+# if it is even, divide it by two, but if it is odd, multiply it by three and add one.
+# Have the program end if the current value is one._
 
 ## Technologies Used
 
@@ -12,12 +16,17 @@
 
 ## Description
 
-_This is a Python script. It will input 2 integer amounts from the user in cents. It will then add both of these amounts together. The sum will then be output in a formatted Euro amount._
+_This Python script will Program that asks the user to input any positive integer 
+and outputs the successive values of the following calculation.
+At each step calculate the next value by taking the current value and, 
+if it is even, divide it by two, but if it is odd, multiply it by three and add one.
+Have the program end if the current value is one._
+
 
 ## Setup/Installation Requirements
 
 * _Python must be installed and working first._
-* _Simply run this with "python bank.py"_
+* _Simply run this with "python collatz.py"_
 
 
 ## Known Bugs
